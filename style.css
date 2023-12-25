@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.countdown-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+}
